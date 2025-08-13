@@ -22,16 +22,18 @@ A powerful and modular Python-based toolkit designed to automate web and network
 ## 📁 File Structure
 
 ├── config.py # Configuration settings
-├── dast_scanner.py # Dynamic web scanner module
-├── log_analyzer.py # Log analysis module
-├── network_scanner.py # Network scanning module
-├── run_all.py # Master script to run all modules
-├── Screenshot (615).png # Tool screenshot
-├── Screenshot (616).png # Tool screenshot
 
-bash
-Copy
-Edit
+├── dast_scanner.py # Dynamic web scanner module
+
+├── log_analyzer.py # Log analysis module
+
+├── network_scanner.py # Network scanning module
+
+├── run_all.py # Master script to run all modules
+
+├── Screenshot (615).png # Tool screenshot
+
+├── Screenshot (616).png # Tool screenshot
 
 ## 🧠 Usage
 
